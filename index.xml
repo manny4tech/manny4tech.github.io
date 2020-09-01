@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My test Hugo Site</title>
+    <link>http://manny4tech.github.io/</link>
+    <description>Recent content on My test Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Wed, 02 Sep 2020 06:41:30 +1000</lastBuildDate>
+    
+	<atom:link href="http://manny4tech.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://manny4tech.github.io/about/</link>
+      <pubDate>Wed, 02 Sep 2020 06:41:30 +1000</pubDate>
+      
+      <guid>http://manny4tech.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
